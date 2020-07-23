@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BaiTap-Su-ly-su-kien</string>
+    <string name="TVT">Tên</string>
+    <string name="TVDT">SDT</string>
+    <string name="TVGT">Giới tính</string>
+    <string name="RBTN">Nam</string>
+    <string name="RBTN2">Nữ</string>
+    <string name="TVQT">Quốc Tịch</string>
+    <string name="BTDY">Đồng Ý</string>
+    <string name="BTH">Hủy</string>
+    <string name="TVCT">Chú Thích</string>
+    <string name="txtLan">Languages</string>
+    <string-array name="lan_array">
+        <item>Việt Nam</item>
+        <item>USA</item>
+        <item>Nhật Bản</item>
+
+    </string-array>
+
+</resources>
